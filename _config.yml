@@ -1,0 +1,49 @@
+# Dependencies
+markdown:	kramdown
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:            Senhorinha - Blog
+tagline:          'blog'
+description:      'Base para bons promadores.'
+url:              http://senhorinha.github.io
+baseurl:          
+commentsystem:    google
+disqus:           example
+
+author:
+  name:           Thiago Senhorinha Rose
+  url:            https://www.linkedin.com/in/thisenrose/
+
+paginate:         5
+
+# Custom vars
+icon:             /assets/images/icon.png
+cover:            /assets/images/cover.jpg
+
+social:
+  - icon:         github
+    url:          https://github.com/senhorinha
+    desc:         Fork me on github
+
+menu:
+  - title:        Início
+    url:          /
+
+  - title:        Sobre
+    url:          /about
+
+copyright:
+  author:         Senhorinha
+  url:            http://senhorinha.github.io
+  type_title:     Direitos reservados
+  type_url:       http://creativecommons.org/licenses/by-nc/2.5
+
+parallax:         false
+
+# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+google_analytics:  
+
+# Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
+theme_color:       7E9576
