@@ -23,9 +23,9 @@ icon:             /assets/images/icon.png
 cover:            /assets/images/cover.jpg
 
 social:
-  - icon:         github
-    url:          https://github.com/senhorinha
-    desc:         Fork me on github
+  - icon:         linkedin
+    url:          https://linkedin.com/in/thisenrose
+    desc:         Vamos conversar?
 
 menu:
   - title:        Início
